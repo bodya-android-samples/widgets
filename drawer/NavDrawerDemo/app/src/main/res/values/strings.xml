@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavDrawerDemo</string>
+    <string name="main_content_text">Hello World!</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="dashboard_activity">Dashboard Activity</string>
+    <string name="android">Android</string>
+    <string name="android_activity">Android Activity</string>
+    <string name="preferences">Preferences</string>
+    <string name="preferences_activity">Preferences Activity</string>
+
+</resources>
